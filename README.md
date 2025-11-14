@@ -4,7 +4,7 @@ Personal portfolio website showcasing my academic background, professional exper
 
 ## Live Demo
 
-[View Portfolio](https:/EmelyHoffmann/.github.io)
+[View Portfolio](https://emelyhoffmann.github.io)
 
 ## Features
 
